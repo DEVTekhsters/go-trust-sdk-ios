@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GoTrustSdkIos",
-            url: "https://github.com/DEVTekhsters/go-trust-sdk-ios/releases/download/1.0.1/GoTrustSdkIos-1.0.1.xcframework.zip",
-            checksum: "ef775ffbc7f92a4f025d04b3273812b04e6f78f0d32e9199a7b70857627f2201"
+            url: "https://github.com/DEVTekhsters/go-trust-sdk-ios/releases/download/1.0.2/GoTrustSdkIos-1.0.1.xcframework.zip",
+            checksum: "20c481e32f7d54163cbabecede1db632e8c25ffd161cb61448dbecb6998099e4"
         )
     ]
 )
